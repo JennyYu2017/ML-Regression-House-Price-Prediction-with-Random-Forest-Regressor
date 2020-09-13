@@ -6,6 +6,6 @@ Random Forest Regressor will be an optimal algorithm in this problem because it 
 
 The experiment shows that feature engineering using Recursive Feature Elimination does help improve model performance. Comparing the model trained on all features, the model trained on the 7 optimal features improves the R2 score from 0.4904 to 0.5435 while reducing the Mean absolute error from 134490.3 to 131453.1. 
 
-![](/plots/Feature%20Ranking.png)
+![](/images/Feature%20Ranking.png)
 
 
