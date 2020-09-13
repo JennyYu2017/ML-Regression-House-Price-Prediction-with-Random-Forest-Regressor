@@ -9,6 +9,10 @@ The experiment shows that feature engineering using Recursive Feature Eliminatio
 
 # Plots and Visualizations
 
+![](https://github.com/JennyYu2017/Feature-Selection-and-Machine-Learning---House-Price Prediction/blob/master/Plots/Accuracy%20Score%20vs.%20Numbr%20of%20Features%20Selected.png)
+
+![](https://github.com/JennyYu2017/Feature-Selection-and-Machine-Learning---House-Price-Prediction/blob/master/Plots/Actual%20vs%20Predicted%20Housing%20Price%20on%20the%20Testing%20set%20with%20all%2016%20features.png)
+
 ![](https://github.com/JennyYu2017/Feature-Selection-and-Machine-Learning---House-Price-Prediction/blob/master/Plots/Actual%20vs%20Predicted%20Housing%20Price%20on%20the%20Testing%20set%20with%20all%2016%20features.png)
 
 ![](https://github.com/JennyYu2017/Feature-Selection-and-Machine-Learning---House-Price-Prediction/blob/master/Plots/Actual%20vs%20Predicted%20Housing%20Price%20on%20the%20Testing%20set%20with%20all%2016%20features.png)
