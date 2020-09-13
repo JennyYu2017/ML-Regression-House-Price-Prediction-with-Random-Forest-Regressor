@@ -9,5 +9,6 @@ The experiment shows that feature engineering using Recursive Feature Eliminatio
 
 # Plots and Visualizations
 ![](/images/Feature%20Ranking.png)
+![](https://github.com/JennyYu2017/Feature-Selection-and-Machine-Learning---House-Price-Prediction/blob/master/Plots/Feature%20Ranking.png)
 
 
